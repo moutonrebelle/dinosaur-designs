@@ -38,8 +38,8 @@ figcaption {
   text-align: center;
 }
 
-figcaption.large {
-  font-size: large;
+figcaption.normal {
+  font-size: 1.125;
 }
 
 img {
