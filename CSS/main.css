@@ -10,26 +10,27 @@ nav {
   font-weight: bold;
   font-size: 1.125rem;
   color: #793284;
-  font-family: 'Patua One', cursive;
+  font-family: "Patua One", cursive;
 }
 
 nav a:hover {
-  color:#b42885;
+  color: #b42885;
 }
 
-li {list-style-type: none;
+li {
+  list-style-type: none;
 }
 /* ------------- =Headings -------------- */
 
-h2{
+h2 {
   color: #5d8432;
   text-transform: uppercase;
-  font-family: 'Patua One', cursive;
+  font-family: "Patua One", cursive;
 }
 
 /* -------------- =Image --------------- */
 
-figcaption{
+figcaption {
   font-size: 0.9rem;
   font-style: italic;
   text-align: center;
