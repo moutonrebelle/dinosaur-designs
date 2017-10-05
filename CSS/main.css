@@ -1,7 +1,8 @@
 /* ------------- =General -------------- */
+
 html {
   background-color: #f2f1ed;
-  font-family: 'Georgia', serif;
+  font-family: "Georgia", serif;
   line-height: 1.5;
 }
 /* ------------- =Masthead -------------- */
@@ -31,7 +32,7 @@ h2 {
 /* -------------- =Image --------------- */
 
 figcaption {
-  font-size: 0.9rem;
+  font-size: 1rem;
   font-style: italic;
   text-align: center;
 }
