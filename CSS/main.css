@@ -33,7 +33,7 @@ h2 {
 /* -------------- =Image --------------- */
 
 figcaption {
-  font-size: small
+  font-size: small;
   font-style: italic;
   text-align: center;
 }
