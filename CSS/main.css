@@ -7,7 +7,6 @@ html {
 /* ------------- =Masthead -------------- */
 
 nav {
-  list-style-type: none;
   font-weight: bold;
   font-size: 1.125rem;
   color: #793284;
@@ -16,6 +15,9 @@ nav {
 
 nav a:hover {
   color:#b42885;
+}
+
+li {list-style-type: none;
 }
 /* ------------- =Headings -------------- */
 
