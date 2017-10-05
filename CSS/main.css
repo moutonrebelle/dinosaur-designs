@@ -6,15 +6,15 @@ html {
 }
 /* ------------- =Masthead -------------- */
 
-.nav {
+nav {
   list-style-type: none;
   font-weight: bold;
-  font-size: 1.125rem
-  color: #793284
+  font-size: 1.125rem;
+  color: #793284;
 }
 
-.nav a:hoover {
-  color:#b42885
+nav a:hover {
+  color:#b42885;
 }
 /* ------------- =Headings -------------- */
 
@@ -26,7 +26,7 @@ h2{
 /* -------------- =Image --------------- */
 
 figcaption{
-  font-size: 4 rem;
+  font-size: 0.9rem;
   font-style: italic;
   text-align: center;
 }
