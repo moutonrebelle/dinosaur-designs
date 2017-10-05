@@ -1,19 +1,27 @@
+/* ------------- =General -------------- */
 html {
   background-color: #f2f1ed;
   font-family: "Georgia", serif;
   line-height: 1.5;
 }
 
-img {
-  width: 100%;
-}
+/* ------------- =Masthead -------------- */
 
 h2{
   color: #5d8432;
   text-transform: uppercase;
 }
 
+/* ------------- =Headings -------------- */
+
 figcaption{
-  font-size: 5 rem;
+  font-size: 4 rem;
   font-style: italic;
+  text-align: center;
 }
+
+img {
+  width: 100%;
+}
+
+/* ------------- =Headings -------------- */
