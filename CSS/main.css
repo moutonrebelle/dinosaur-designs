@@ -4,8 +4,13 @@ html {
   font-family: "Georgia", serif;
   line-height: 1.5;
 }
-
 /* ------------- =Masthead -------------- */
+
+li{
+list-style-type: none;
+}
+
+/* --------------- =List ---------------- */
 
 h2{
   color: #5d8432;
