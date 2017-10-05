@@ -38,6 +38,9 @@ figcaption {
   text-align: center;
 }
 
+.figcaption1 {
+  font-size: medium;
+}
 img {
   width: 100%;
 }
